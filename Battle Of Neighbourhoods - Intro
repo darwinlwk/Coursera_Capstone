@@ -1,9 +1,13 @@
 Introduction
 
-- In Singapore, watching movies are Singaporean favourite things to do. No matter what day, what time. If there are some spare time available, watching movies is usually the top choice.
-- But in Singapore, with the number of cinemas available, the number of seats available during peak hours for blockbuster movies are always sold out. Which is a hassle to a lot of people who wants to watch movies (e.g. after office hours or dinner time).
-- So, what are the locations available that cinemas are not readily available?
-- A cinema should be situated near food outlets; different transportation options should be available too.
-- Walking distance from transportation shouldn’t really be an issue, but it’s highly recommended to be walking distance.
-- My task would be in such small island of Singapore, where would it be ideal to build a brand new cinema, to minimize the amount of sold out tickets at popular locations and peak hours.
+Paris. The capital of France, and commonly known as The City of Light & Love. Paris is a very popular European destination for many.
+Paris is the global center for finance, fashion, food, arts, architecture and history. There are tons of things to do, lots of food
+to enjoy. It is highly recommended to create a travel itinerary in order to prioritize the must-do activities, must-visit sites and
+must-try food, while having a balance to explore around.
 
+Paris is quite huge, thus to fully utilise the time spent there, it's highly recommended to plan an itinerary. This project will try to
+create an itinerary that saves time while getting the most out of one's trip to Paris, giving some suggestions to see, do and eat in Paris.
+
+The data collected will be useful for future visitors to Paris, helping them to plan their itinerary better.
+The data used to come up with this project is found from Wikipedia (https://en.wikipedia.org/wiki/Arrondissements_of_Paris). The latitude
+and longtitude are compiled using Nominatim. The locations are found using Foursquare API.
